@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Satyanarayana</h1>
+<h3 align="center">Frontend Developer | Hackathon Enthusiast 🚀</h3>
 
-<!--
-**Satyanarayana001/Satyanarayana001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌱 Currently learning: Full Stack Development  
+💡 Interested in: Web Development & AI Tools  
+🎯 Goal: Get top internships  
+📫Email:veeravenkatasatyanarayana.kotar@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+- HTML, CSS, JavaScript
+- React (learning)
+- Python (basics)
+- Git & GitHub
+
+---
+
+## 📌 Projects
+- Portfolio Website
+- Password Generator
+- FSD Practice Projects
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Satyanarayana001&show_icons=true&theme=radical)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Satyanarayana001&theme=radical)
+
+---
+
+⭐ Keep learning. Keep building.
