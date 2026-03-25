@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kotari Veera Venkata Satyanarayana</h1>
-<h3 align="center">CSE Student | Aspiring SDE | Full Stack · AI · Open Source Enthusiast 🚀</h3>
+<h3 align="center">CSE Student | Aspiring SDE | AI · Full Stack · Open Source Enthusiast 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Satyanarayana001&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -7,31 +7,32 @@
 
 ---
 
-🎓 3rd Year B.Tech CSE @ **BVC Engineering College, Odalarevu**  
-🌱 Currently learning: **Full Stack Development (React + Node.js)**  
-💡 Interested in: **Web Development, AI Tools & Open Source**  
-🎯 Goal: **Land a top SDE Internship**  
+🎓 3rd Year B.Tech CSE @ **BVC Engineering College, Odalarevu** (CGPA: 8.47)  
+🌱 Currently learning: **Full Stack Development (React + Node.js), Backend with FastAPI**  
+💡 Interested in: **AI/ML, LLMs, Voice AI, Web Development & Open Source**  
+🎯 Goal: **Secure an AI / ML / SDE Internship**  
 🏆 **Hackathon Participant** — Built project for IIT Patna (Frontend Odyssey)  
 🌍 **GSoC Contributor** — Contributing to AOSSIE Organization  
-📫 Email: veeravenkatasatyanarayana.kotar@gmail.com
+💼 Completed internships in **AI, ServiceNow, Salesforce & Data Analytics**  
+📫 Email: veeravenkatasatyanarayana.kotar@gmail.com  
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript, React, GSAP, Framer Motion
-- **Backend:** Python, Node.js (learning)
-- **Mobile:** Flutter & Dart
-- **AI/ML:** Python, Speech-to-Text, Intent Detection
-- **Database:** MySQL (basics)
-- **Other:** ServiceNow, Canvas API, Git & GitHub, VS Code
+- **Languages:** Python, Java, Dart  
+- **Frontend:** HTML, CSS, JavaScript, React, GSAP, Framer Motion  
+- **Backend & APIs:** FastAPI, REST APIs, Node.js (learning), Streamlit  
+- **AI / ML:** Machine Learning, NLP, LLM Concepts, Prompt Engineering, Voice AI (STT / TTS), IBM AutoAI, Watsonx  
+- **Database:** MySQL (basics)  
+- **Tools & Platforms:** Git, GitHub, ServiceNow, Salesforce, IBM Cloud, VS Code, Flutter  
 
 ---
 
 ## 🌍 Open Source Contributions (GSoC)
 
-- 🤖 **[Ell-ena](https://github.com/Satyanarayana001/Ell-ena)** — Smart AI product manager for task, project & meeting management via chat interface · `Dart` · *AOSSIE Org*
-- 📝 **[EduAid](https://github.com/Satyanarayana001/EduAid)** — Auto-generates short quizzes from provided content · `JavaScript` · *AOSSIE Org*
+- 🤖 **[Ell-ena](https://github.com/Satyanarayana001/Ell-ena)** — Smart AI product manager for task, project & meeting management via chat interface · `Dart` · *AOSSIE Org*  
+- 📝 **[EduAid](https://github.com/Satyanarayana001/EduAid)** — Auto-generates short quizzes from provided content · `JavaScript` · *AOSSIE Org*  
 
 ---
 
@@ -41,17 +42,16 @@
 - 🌀 **[Duality](https://github.com/Satyanarayana001/Duality)** — Immersive scroll-driven storytelling web experience "Dream vs Reality: A Student's Odyssey" · Built for **Frontend Odyssey by IIT Patna** · `React · GSAP · Framer Motion · Canvas API`
 
 ### 🤖 AI / ML
-- 🎙️ **[FinVoice-AI](https://github.com/Satyanarayana001/FinVoice-AI)** — Offline voice-based finance assistant with speech-to-text, intent detection & voice responses · `Python`
-- 📉 **[student-dropout-risk](https://github.com/Satyanarayana001/student-dropout-risk)** — Predicts student dropout probability by analyzing demographics, attendance & assignment scores · `Python`
+- 🎙️ **[FinVoice-AI](https://github.com/Satyanarayana001/FinVoice-AI)** — Offline voice-enabled conversational AI for financial education using **FastAPI, Whisper, NLP & LLM concepts** with multi-turn conversation support  
+- 📉 **[student-dropout-risk](https://github.com/Satyanarayana001/student-dropout-risk)** — AI-powered system predicting student dropout risk using **IBM AutoAI, Watsonx, Streamlit & REST APIs** with interactive dashboard and real-time insights  
 
 ### 🌐 Web Development
-- 🚀 **[campusedge-your-academic-launchpad](https://github.com/Satyanarayana001/campusedge-your-academic-launchpad)** — Academic launchpad for students · `TypeScript`
-- 💰 **[Calculating-Family-Expenses-Using-Servicenow](https://github.com/Satyanarayana001/Calculating-Family-Expenses-Using-Servicenow-)** — Family expense calculator built on ServiceNow platform · `ServiceNow`
-- 🔐 **[Password-Generator](https://github.com/Satyanarayana001/Password-Generator-Project-For-Micro-IT-)** — Secure password generator with customizable rules · `HTML · CSS · JS`
-- 🌐 **[Portfolio Website](https://github.com/Satyanarayana001/Portfolio-Project-For-Micro-IT)** — Personal portfolio showcasing skills & projects · `HTML · CSS · JS`
+- 🚀 **[campusedge-your-academic-launchpad](https://github.com/Satyanarayana001/campusedge-your-academic-launchpad)** — Academic launchpad platform for students · `TypeScript`  
+- 💰 **[Calculating-Family-Expenses-Using-Servicenow](https://github.com/Satyanarayana001/Calculating-Family-Expenses-Using-Servicenow-)** — Expense calculator built using ServiceNow workflows  
+- 🔐 **[Password-Generator](https://github.com/Satyanarayana001/Password-Generator-Project-For-Micro-IT-)** — Secure password generator with customizable rules · `HTML · CSS · JS`  
 
 ### 📱 Mobile
-- 📚 **[Book-Store-App](https://github.com/Satyanarayana001/Book-Store-App-using-Flutter-Dar)** — Book store mobile app · `Flutter · Dart`
+- 📚 **[Book-Store-App](https://github.com/Satyanarayana001/Book-Store-App-using-Flutter-Dar)** — Cross-platform mobile app for browsing and reading books · `Flutter · Dart`  
 
 ---
 
@@ -70,26 +70,21 @@
 
 ## 🤝 Connect with Me
 
-[
+<p align="left">
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
+<a href="https://www.linkedin.com/in/veera-venkata-satyanarayana-kotari-53b340292" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+</a>
 
-](https://www.linkedin.com/in/veera-venkata-satyanarayana-kotari-53b340292)
-[
+<a href="mailto:veeravenkatasatyanarayana.kotar@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Send%20Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+</a>
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)
+<a href="https://github.com/Satyanarayana001" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white"/>
+</a>
 
-](mailto:veeravenkatasatyanarayana.kotar@gmail.com)
-[
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
-](https://github.com/Satyanarayana001)
-[
-
-![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)
-
-](https://YOUR-PORTFOLIO-LINK)
+</p>
 
 ---
 
