@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Satyanarayana</h1>
+<h1 align="center">Hi 👋, I'm Kotari Veera Venkata Satyanarayana</h1>
 <h3 align="center">CSE Student | Aspiring SDE | Full Stack · AI · Open Source Enthusiast 🚀</h3>
 
 <p align="center">
