@@ -7,7 +7,7 @@
 
 ---
 
-🎓 3rd Year B.Tech CSE @ **BVC Engineering College, Odalarevu** (CGPA: 8.47)  
+🎓 4th Year B.Tech CSE @ **BVC Engineering College, Odalarevu** (CGPA: 8.49)  
 🌱 Currently learning: **Full Stack Development (React + Node.js), Backend with FastAPI**  
 💡 Interested in: **AI/ML, LLMs, Voice AI, Web Development & Open Source**  
 🎯 Goal: **Secure an AI / ML / SDE Internship**  
