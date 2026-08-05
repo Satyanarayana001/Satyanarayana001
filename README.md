@@ -608,34 +608,23 @@ Active contributor contributing to AI and education-focused open-source projects
 
 ---
 <!-- ========================================================= -->
-<!--         PART 6 • GITHUB ANALYTICS • CONNECT               -->
+<!--      PART 6 • GITHUB STATS • CONNECT                      -->
 <!-- ========================================================= -->
 
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Satyanarayana001&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Satyanarayana001&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Satyanarayana001&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=Satyanarayana001&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyanarayana001&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyanarayana001&layout=compact&theme=tokyonight&hide_border=true"/>
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Satyanarayana001&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyanarayana001&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -643,7 +632,9 @@ Active contributor contributing to AI and education-focused open-source projects
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Satyanarayana001/Satyanarayana001/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+<img src="https://raw.githubusercontent.com/Satyanarayana001/Satyanarayana001/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
 </p>
 
 ---
@@ -664,7 +655,7 @@ Active contributor contributing to AI and education-focused open-source projects
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://satyanarayana1.netlify.app/">
+<a href="https://satyanarayana1.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-Visit-7F00FF?style=for-the-badge"/>
 </a>
 
@@ -673,5 +664,12 @@ Active contributor contributing to AI and education-focused open-source projects
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! Let's connect and build something amazing together.
+
+⭐ <b>Thanks for visiting my profile!</b><br>
+Always learning, always building, always improving.
+
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6A11CB,100:2575FC"/>
 </p>
