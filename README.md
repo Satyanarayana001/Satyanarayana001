@@ -62,11 +62,11 @@ Engineering • AI • Backend • Open Source
 <p align="center">
 Passionate about building scalable software systems, AI-powered applications, and impactful open-source solutions while continuously improving software engineering skills.
 </p>
----
+
 <!-- ========================================================= -->
 <!--               PART 2 • ABOUT • TECH STACK                 -->
 <!-- ========================================================= -->
-
+---
 # 👨‍💻 About Me
 
 I'm **Kotari Veera Venkata Satyanarayana**, a **B.Tech Computer Science & Engineering student (Class of 2027)** with a strong interest in **Software Engineering, Artificial Intelligence, Backend Development, and Open Source**.
