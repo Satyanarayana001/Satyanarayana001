@@ -611,22 +611,6 @@ Active contributor contributing to AI and education-focused open-source projects
 <!--      PART 6 • GITHUB STATS • CONNECT                      -->
 <!-- ========================================================= -->
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Satyanarayana001&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=Satyanarayana001&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyanarayana001&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
 ---
 
 # 🐍 Contribution Snake
