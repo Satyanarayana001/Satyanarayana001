@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=900&color=8A2BE2&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Backend+Developer;Open+Source+Contributor;Building+Scalable+Software+Solutions"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=900&color=8A2BE2&center=true&vCenter=true&width=900&lines=Computer+Science+and+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Backend+Developer;Open+Source+Contributor;Building+Scalable+Software+Solutions"/>
 </p>
 
 ---
