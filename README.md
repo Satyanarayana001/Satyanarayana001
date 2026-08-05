@@ -606,7 +606,6 @@ Active contributor contributing to AI and education-focused open-source projects
 
 </p>
 
----
 <!-- ========================================================= -->
 <!--      PART 6 • GITHUB STATS • CONNECT                      -->
 <!-- ========================================================= -->
