@@ -544,10 +544,6 @@ Active contributor contributing to AI and education-focused open-source projects
 | Provider | Credential | Status |
 |-----------|------------|:------:|
 | <img src="https://skillicons.dev/icons?i=oracle" width="18"/> **Oracle** | Agentic AI Foundations Associate | ✅ |
-| <img src="https://skillicons.dev/icons?i=ibm" width="18"/> **IBM** | watsonx AI & AutoAI (Practical Experience) | ✅ |
-| <img src="https://skillicons.dev/icons?i=github" width="18"/> **ServiceNow** | Administration Internship | ✅ |
-| <img src="https://img.shields.io/badge/JPMorgan-005EB8?style=flat-square"/> **JPMorgan** | Software Engineering Virtual Experience | ✅ |
-| <img src="https://img.shields.io/badge/Deloitte-86BC25?style=flat-square"/> **Deloitte** | Technology Virtual Experience | ✅ |
 
 ---
 
