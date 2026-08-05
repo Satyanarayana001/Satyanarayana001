@@ -62,7 +62,7 @@ Engineering • AI • Backend • Open Source
 <p align="center">
 Passionate about building scalable software systems, AI-powered applications, and impactful open-source solutions while continuously improving software engineering skills.
 </p>
-
+---
 <!-- ========================================================= -->
 <!--               PART 2 • ABOUT • TECH STACK                 -->
 <!-- ========================================================= -->
