@@ -66,7 +66,7 @@ Passionate about building scalable software systems, AI-powered applications, an
 ---
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Satyanarayana001&theme=github_dark" alt="GitHub Profile Summary"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Satyanarayana001&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 ---
