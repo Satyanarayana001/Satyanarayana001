@@ -63,13 +63,6 @@ Engineering • AI • Backend • Open Source
 Passionate about building scalable software systems, AI-powered applications, and impactful open-source solutions while continuously improving software engineering skills.
 </p>
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satyanarayana001&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-</p>
-
----
 <!-- ========================================================= -->
 <!--               PART 2 • ABOUT • TECH STACK                 -->
 <!-- ========================================================= -->
